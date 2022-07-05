@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #F5F5F5;
+  display: flex;
+  justify-content: center;
+}
+
+.wrap {
+  margin-top: 100px;
+  width: 75%;
+  height: 600px;
+  background-color: #fff;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.drop-list {
+  width: 50%;
+  box-sizing: border-box;
+  padding: 32px 36px;
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.07);
+}
+
+.list-up {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.list-up .list-title {
+  margin: 0;
+}
+.list-up .list-btn {
+  width: 40px;
+  height: 40px;
+  display: block;
+  border-radius: 50%;
+  border: none;
+  background-color: #FFECE2;
+}
+
+.list-down {
+  display: block;
+  margin-top: 24px;
+}
+
+.list-content {
+  margin: 0;
+  width: 87%;
+}
+
+.none {
+  display: none;
+}
