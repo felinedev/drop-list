@@ -1,2 +1,2 @@
 # drop-list
-## https://maksimlutsenko.github.io/drop-list/
+## https://felinedev.github.io/drop-list/
